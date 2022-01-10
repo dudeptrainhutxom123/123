@@ -9,6 +9,8 @@ int main()
      cout<<" anh du dep trai qua";
      cin>> a;
      cout<< a;
+    cout<<"\n co cai return cung quen ";
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
